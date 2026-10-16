@@ -84,6 +84,10 @@ Full-stack in the most literal, slightly worrying sense.
 > Everything I work on is strictly **top secret**: classified, NDA-protected, need-to-know only.
 > Mostly because it's a hotel phone system, but still. My contribution graph looks lazy; my clients' phones say otherwise.
 
+…except this one, which escaped:
+
+- 🏃 **[sh-tafeta](https://github.com/ScIEnzY/sh-tafeta)** — from the Italian *staffetta*, the relay race: nobody stops swimming, the baton just changes hands. It resumes every Claude Code session after a reboot, on WSL and remote servers: one Windows Terminal tab per tmux session, safe two-way sync, and screenshots that reach the server with a plain Ctrl+V. Born because Windows Update kept rebooting my dev team of AI agents mid-sprint.
+
 <!--
 ### 📊 GitHub stats
 Enable "Include private contributions on my profile" in GitHub settings first, otherwise the cards show almost nothing.
