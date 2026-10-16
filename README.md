@@ -86,7 +86,7 @@ Full-stack in the most literal, slightly worrying sense.
 
 …except this one, which escaped:
 
-- 🏊 **[sh-tafeta](https://github.com/ScIEnzY/sh-tafeta)** — from the Italian *staffetta*, the relay race: nobody stops swimming, one touches the wall and the next one is already in the water. It resumes every Claude Code session after a reboot, on WSL and remote servers: one Windows Terminal tab per tmux session, safe two-way sync, and screenshots that reach the server with a plain Ctrl+V. Born because Windows kept crashing (thanks, Microsoft) and taking my dev team of AI agents down with it, mid-sprint.
+- 🏊 **[sh-tafeta](https://github.com/ScIEnzY/sh-tafeta)** — a pun on `sh` and *staffetta* (Italian for relay race), the way my coach Bane used to say it: "shtafeta". Nobody stops swimming: one touches the wall and the next one is already in the water. It resumes every Claude Code session after a reboot, on WSL and remote servers: one Windows Terminal tab per tmux session, safe two-way sync, and screenshots that reach the server with a plain Ctrl+V. Born because Windows kept crashing (thanks, Microsoft) and taking my dev team of AI agents down with it, mid-sprint.
 
 <!--
 ### 📊 GitHub stats
